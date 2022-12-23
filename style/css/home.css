@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-weight: Pretendard;
+  background-color: rgb(28, 28, 28);
 }
 
 .container {
@@ -35,7 +36,7 @@
   margin-bottom: 0.5rem;
 }
 .grid_title h1 {
-  color: rgb(58, 58, 58);
+  color: rgb(255, 255, 255);
   width: 100%;
   text-align: center;
   font-weight: 500;
@@ -44,7 +45,7 @@
   margin-bottom: 0.55rem;
 }
 .grid_title p {
-  color: rgb(115, 115, 115);
+  color: rgb(151, 151, 151);
   width: 100%;
   text-align: center;
   font-weight: 500;
